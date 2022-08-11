@@ -1,0 +1,2 @@
+# OnlyForImages
+only for images
